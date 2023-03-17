@@ -66,15 +66,13 @@ apk add nmap
 
 apk add ruby 
 
-apk add cmadrix
+apk add cmatrix
 
 cd $HOME
 
 git clone https://github.com/urbanadventurer/Android-PIN-Bruteforce
 
 clear
-
-print ("# Nota antes iniciar asegurarse de que este activado la depuración USB para que funcione")
 
 
 echo proceso finalizado...
