@@ -14,7 +14,13 @@
 
 </div>
 
-# Instalación
+ # Descripción
+
+ Esta herramienta solo instala paquetes que se ayudarán para la ejecución de herramientas 
+
+
+
+ # Instalación
 
 
  * ` apk add git`
@@ -24,3 +30,6 @@
  * ` cd Alpine-tools`
 
  * ` ./Alpine-tools.sh`
+
+
+![Imagen-Alpine-tools.png]
