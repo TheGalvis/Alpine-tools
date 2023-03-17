@@ -58,7 +58,15 @@ banner1
 echo -e "${g}Comenzando Proceso"
 sleep 2
 
-apk add nano nmap ruby cmadrix
+apk add 
+
+apk add nano 
+
+apk add nmap 
+
+apk add ruby 
+
+apk add cmadrix
 
 cd $HOME
 
