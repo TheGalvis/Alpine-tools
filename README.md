@@ -1,4 +1,4 @@
-# Alpine-tools
+ # Alpine-tools
 
 
 <div align="center">
@@ -24,13 +24,13 @@
 
 * ` apk add bash`
 
- * ` apk add git`
+* ` apk add git`
 
- * ` git clone https://github.com/TheGalvis/Alpine-tools`
+* ` git clone https://github.com/TheGalvis/Alpine-tools`
 
- *  ` cd Alpine-tools`
+*  ` cd Alpine-tools`
 
- * ` ./Alpine-tools.sh`
+* ` ./Alpine-tools.sh`
 
 
 
