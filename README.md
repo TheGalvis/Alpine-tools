@@ -1,15 +1,17 @@
+#Alpine-tools
 
-#Alpine es una herramienta facil de utilizar
+![Alpine-tools](https://raw.githubusercontent.com/TheGalvis/Alpine-tools
+<a href="https://github.com/TheGalvis"><img title="Author" src="https://img.shields.io/badge/Author-TheGalvis%20-svg?style=for-the-badge&logo=github"></a>
+<div align="center">
+<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-0.1-green.svg?style=flat-square"></a>
 
-#instalacion#
 
-*git clone https://github.com/TheGalvis/Alpine-tools
 
-*cd Alpine-tools
 
-*ls
 
-*chmod +x *
 
-*./Alpine-tools
 
+* ` apk add git`
+* ` git clone https://github.com/TheGalvis/Alpine-tool`
+* ` cd Alpine-tools`
+* ` ./Alpine-tools.sh`
