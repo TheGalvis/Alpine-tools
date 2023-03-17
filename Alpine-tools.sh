@@ -58,19 +58,17 @@ banner1
 echo -e "${g}Comenzando Proceso"
 sleep 2
 
-apk add nano
+apk add nano nmap ruby cmadrix
 
-apk add nmap
+cd $HOME
 
-apk add python2
+git clone https://github.com/urbanadventurer/Android-PIN-Bruteforce
 
-apk add python3
+clear
 
-apk add ruby
+print ("# Nota antes iniciar asegurarse de que este activado la depuración USB para que funcione")
 
-apk add cmatrix
 
-clear 
-
-sleep 4
 echo proceso finalizado...
+
+
