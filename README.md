@@ -25,11 +25,10 @@
 
  * ` apk add git`
 
- * ` git clone https://github.com/TheGalvis/Alpine-tool`
+ * ` git clone https://github.com/TheGalvis/Alpine-tools`
 
  * ` cd Alpine-tools`
 
  * ` ./Alpine-tools.sh`
 
 
-![Imagen-Alpine-tools.png]
