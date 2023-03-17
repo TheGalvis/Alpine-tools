@@ -69,3 +69,8 @@ apk add python3
 apk add ruby
 
 apk add cmatrix
+
+clear 
+
+sleep 4
+echo proceso finalizado...
