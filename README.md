@@ -16,7 +16,7 @@
 
  # Descripción
 
- Esta herramienta solo instala paquetes que se ayudarán para la ejecución de herramientas 
+ Esta herramienta no solo instala paquetes que nos ayudarán en nuestra terminal, tambien para la ejecución de herramientas y biene con Android-PIN-Bruteforce
 
 
 
