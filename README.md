@@ -16,7 +16,7 @@
 
  # Descripción
 
- Esta herramienta no solo instala paquetes que nos ayudarán en nuestra terminal, tambien para la ejecución de herramientas y biene con Android-PIN-Bruteforce
+ Esta herramienta no solo instala paquetes que nos ayudarán en nuestra terminal, tambien tiene Android-PIN-Bruteforce como regalo
 
 
 
@@ -28,8 +28,12 @@
 
  * ` git clone https://github.com/TheGalvis/Alpine-tools`
 
- * ` cd Alpine-tools`
+ *  ` cd Alpine-tools`
 
  * ` ./Alpine-tools.sh`
+
+
+
+
 
 
