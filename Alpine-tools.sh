@@ -75,6 +75,6 @@ git clone https://github.com/urbanadventurer/Android-PIN-Bruteforce
 clear
 
 
-echo proceso finalizado....
+echo proceso finalizado..
 
 
