@@ -1,4 +1,9 @@
 #!/bin/bash
+
+#Creador by zLikox
+#creditos reservados by TheGalvis
+#si hay algun error comunicarse con el creador 
+
 g="${b}\033[1;30m"
 b="\033[0m"
 b1="$b\033[1;37m"
@@ -43,38 +48,55 @@ banner1() {
 	sleep 0.9
 	printf "$A[$b1+$A]${b1} Creador:$a     zLikox\n"
 	sleep 0.4
+
 	printf "$A[$b1+$A]${b1} Herramienta:$a alpine-tools\n"
 	sleep 0.4
 	printf "$A[$b1+$A]${b1} GitHub:$a      https://github.com/TheGalvis\n"
 	sleep 0.4
 	printf "$A[$b1+$A]${b1} YouTube:$a https://www.youtube.com/channel/UCY24Lt5H8dQfp030-UvRbfw$b\n"
-	sleep 4
+	sleep 0.9
 }
+
 
 clear
 
-
+sleep 4
 banner1
-echo -e "${g}Comenzando Proceso"
-sleep 2
+echo ""
+echo -e "${A}Comenzando Proceso${b}"
+echo -e $A[$b1+$A]${b1}Vim
+apk add vim
+sleep 0.3
 
-apk add 
-
+echo -e "$A[$b1+$A]${b1}Nano"
 apk add nano 
 
+echo -e "$A[$b1+$A]${b1}Nmap"
 apk add nmap 
 
+echo -e "$A[$b1+$A]${b1}Ruby"
 apk add ruby 
 
+echo -e "$A[$b1+$A]${b1}Cmatrix"
 apk add cmatrix
 
 cd $HOME
+sleep 3
+#Escoger menu
+echo -n "Quieres Instalar Brute-Force S/N: "
+read opcion
+#Seleccion de menu
+case $opcion in
+S) echo -e "$A[$b1+$A]${b1}Iniciando Proceso..."
+git clone https://github.com/urbanadventurer/Android-PIN-Bruteforce ;;
+N) echo -e "$A[$b1+$A]${b1}Proceso Finalizado.."
+;;
+s) echo -e "$A[$b1+$A]${b1}Iniciando Proceso..."
+git clone https://github.com/urbanadventurer/Android-PIN-Bruteforce ;;
+n)echo -e "$A[$b1+$A]${b1}Proceso Finalizado"
+;;
+#Alerta
+*)echo "Opción inválida"
 
-git clone https://github.com/urbanadventurer/Android-PIN-Bruteforce
-
-clear
-
-
-echo proceso finalizado..
-
+esac
 
