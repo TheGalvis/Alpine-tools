@@ -20,9 +20,9 @@
 
 
 
-     # Instalación
+      # Instalación
 
-     * ` apk add bash`
+   * ` apk add bash`
 
      * ` apk add git`
 
