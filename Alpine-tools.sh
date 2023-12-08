@@ -77,8 +77,8 @@ apk add nmap
 echo -e "$A[$b1+$A]${b1}Ruby"
 apk add ruby 
 
-echo -e "$A[$b1+$A]${b1}Cmatrix"
-apk add cmatrix
+echo -e "$A[$b1+$A]${b1}Aircrack-ng"
+sudo apk add gcc g++ make autoconf automake libtool libnl3-dev openssl-dev ethtool libpcap-dev cmocka-dev hostapd wpa_supplicant tcpdump screen iw pkgconf util-linux sqlite-dev pcre2-dev linux-headers zlib-dev pciutils usbutils expect
 
 cd $HOME
 sleep 3
