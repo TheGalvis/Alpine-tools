@@ -65,7 +65,7 @@ banner1
 echo ""
 echo -e "${A}Comenzando Proceso${b}"
 echo -e $A[$b1+$A]${b1}Vim
-apk add vim
+apk add vim nmap 
 sleep 0.3
 
 echo -e "$A[$b1+$A]${b1}Nano"
