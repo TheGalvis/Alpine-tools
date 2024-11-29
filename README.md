@@ -2,9 +2,12 @@
 
 
 <div align="center">
-<img title="Author" src="https://img.shields.io/badge/Author-TheGalvis%20-svg?style=for-the-badge&logo=github"></a>
+<img title="Author"
+   src="https://img.shields.io/badge/Author-TheGalvis%20-svg?style=for-the-badge&logo=github"></a>
 <div align="center">
-<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-0.1-green.svg?style=flat-square"></a>
+<a href="#"><img
+   title="Version"
+   src="https://img.shields.io/badge/Version-0.1-green.svg?style=flat-square"></a>
 
 <div align="">
 <a href="https://github.com/TheGalvis/Alpine-tools/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/TheGalvis/Alpine-tools?color=red&style=flat-square"></a>
