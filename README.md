@@ -6,7 +6,7 @@
 <div align="center">
 <a href="#"><img title="Version" src="https://img.shields.io/badge/Version-0.1-green.svg?style=flat-square"></a>
 
-<div align="center">
+<div align="">
 <a href="https://github.com/TheGalvis/Alpine-tools/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/TheGalvis/Alpine-tools?color=red&style=flat-square"></a>
 <a href="https://github.com/TheGalvis/Alpine-tools/network/members"><img title="Forks" src="https://img.shields.io/github/forks/TheGalvis/Alpine-tools?color=red&style=flat-square"></a>
 <a href="https://github.com/TheGalvis/Alpine-tools/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TheGalvis/Alpine-tools?label=Watchers&color=blue&style=flat-square"></a>
