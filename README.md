@@ -23,15 +23,11 @@
 
 
       # Instalación
-` • apk add bash
-
-   • apk add git
-
-   • git clone https://github.com/TheGalvis/Alpine-tools
-
-   •  cd Alpine-tools
-
-   • ./Alpine-tools.sh`
+   ` • apk add bash
+      • apk add git
+      • git clone https://github.com/TheGalvis/Alpine-tools
+      •  cd Alpine-tools
+      • ./Alpine-tools.sh`
 
          Nota solo sirve para dispositivos iOS
 
