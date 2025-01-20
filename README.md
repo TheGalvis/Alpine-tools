@@ -22,14 +22,14 @@
  Esta herramienta no solo instala paquetes que nos ayudarán en nuestra terminal, tambien tiene Android-PIN-Bruteforce como regalo
 
 
-      # Instalación
+    Instalación
    ` • apk add bash
-      • apk add git
-      • git clone https://github.com/TheGalvis/Alpine-tools
-      •  cd Alpine-tools
-      • ./Alpine-tools.sh`
+                                             • apk add git
+                                             • git clone https://github.com/TheGalvis/Alpine-tools
+                                             •  cd Alpine-tools
+                                          • ./Alpine-tools.sh`
 
-         Nota solo sirve para dispositivos iOS
+      Nota solo sirve para dispositivos iOS
 
 
 
